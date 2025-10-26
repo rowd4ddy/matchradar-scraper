@@ -1,7 +1,7 @@
 {
   "name": "ufc-scraper",
   "version": "1.0.0",
-  "description": "Scrape UFC upcoming events from ufcstats.com",
+  "description": "Minimal UFC scraper for Railway",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
